@@ -24,8 +24,8 @@
   <img src="https://media.giphy.com/media/QyJ0We4GHpjBa/giphy.gif" width="50" /> <br>
   你好，我是儀双魚！很高兴认识你～  
   🌸 喜欢尝试新奇的技术，也喜欢捣鼓各种有趣的项目。  
-  🎀 经常逛B站、A站，空闲时打打游戏、撸点代码，享受二次元带来的灵感刺激。  
-  💖 不断前行，只为成为更好的自己！
+  🎀 经常逛B站，空闲时打打游戏、撸点代码，享受二次元带来的灵感刺激。  
+  💖 无法飞翔的翅膀 也有它存在的意义
 </p>
 
 ---
@@ -86,10 +86,10 @@
 <h2 align="center">联系我 Contact Me</h2>
 <p align="center">
   <!-- 替换成你自己的链接 -->
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:iryougi@iryougi.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://twitter.com/your_twitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://space.bilibili.com/your_bilibili_id" target="_blank"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili"></a>
-  <a href="https://yourblog.example.com" target="_blank"><img src="https://img.shields.io/badge/Blog-FFA500?style=flat-square&logo=rss&logoColor=white" alt="Blog"></a>
+  <a href="https://space.bilibili.com/106724280" target="_blank"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili"></a>
+  <a href="https://www.iryougi.com" target="_blank"><img src="https://img.shields.io/badge/Blog-FFA500?style=flat-square&logo=rss&logoColor=white" alt="Blog"></a>
 </p>
 
 ---
