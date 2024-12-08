@@ -52,24 +52,17 @@
 
 <!-- 动态数据展示 -->
 <h2 align="center">我的数据 My Stats</h2>
+<!-- 尝试使用自定义颜色的GitHub数据卡片 -->
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=iRyougi&show_icons=true&title_color=bc719a&text_color=35307a&icon_color=bc719a&bg_color=00000000&border_color=35307a&border_radius=8&include_all_commits=true&hide_border=false&custom_title=iRyougi's%20GitHub%20Stats" alt="GitHub Stats" />
-      </td>
-      <td>
-        <!-- 通过card_width统一宽度 -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iRyougi&layout=compact&title_color=bc719a&text_color=35307a&icon_color=bc719a&bg_color=00000000&border_color=35307a&border_radius=8&hide_border=false&card_width=300" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=iRyougi&show_icons=true&title_color=bc719a&text_color=35307a&icon_color=bc719a&bg_color=ffffff00&border_color=35307a&border_radius=8" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iRyougi&layout=compact&title_color=bc719a&text_color=35307a&icon_color=bc719a&bg_color=ffffff00&border_color=35307a&border_radius=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=iRyougi&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=iRyougi&theme=transparent&ring=bc719a&fire=bc719a&currStreakNum=35307a&sideNums=35307a&dates=35307a&currStreakLabel=bc719a&stroke=35307a&border=35307a" alt="GitHub Streak" />
 </p>
+
 
 ---
 
