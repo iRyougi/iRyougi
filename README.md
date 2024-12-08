@@ -8,7 +8,7 @@
 <!-- 顶部看板娘与欢迎Banner -->
 <p align="center">
   <!-- 使用自己喜欢的二次元角色插图 -->
-  <img src="https://your-image-link-here.jpg" alt="二次元角色" width="300" />
+  <img src="[https://your-image-link-here.jpg](https://www.iryougi.com/wp-content/uploads/2024/06/cropped-1718875770-处理完成图片20240620172915.png)" alt="二次元角色" width="300" />
 
   <!-- 欢迎Banner（可使用ASCII ART或工具生成） -->
   <img src="https://readme-typing-svg.herokuapp.com?font=%E8%8B%B1%E9%BA%BB%E4%BB%96&size=30&duration=4000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=欢迎来到我的GitHub乐园;Here+we+go;二次元的世界,请多关照~" alt="Typing SVG" />
@@ -21,7 +21,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/QyJ0We4GHpjBa/giphy.gif" width="50" /> <br>
-  我是一名热爱开源和二次元文化的开发者！  
+  你好，我是儀双魚！很高兴认识你～  
   🌸 喜欢尝试新奇的技术，也喜欢捣鼓各种有趣的项目。  
   🎀 经常逛B站、A站，空闲时打打游戏、撸点代码，享受二次元带来的灵感刺激。  
   💖 不断前行，只为成为更好的自己！
@@ -53,10 +53,10 @@
 <h2 align="center">我的数据 My Stats</h2>
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iRyougi&show_icons=true&theme=radical" alt="GitHub Stats" />
 
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iRyougi&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
