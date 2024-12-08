@@ -52,17 +52,24 @@
 
 <!-- 动态数据展示 -->
 <h2 align="center">我的数据 My Stats</h2>
-<!-- 尝试使用自定义颜色的GitHub数据卡片 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iRyougi&show_icons=true&title_color=bc719a&text_color=35307a&icon_color=bc719a&bg_color=ffffff00&border_color=35307a&border_radius=8" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iRyougi&layout=compact&title_color=bc719a&text_color=35307a&icon_color=bc719a&bg_color=ffffff00&border_color=35307a&border_radius=8" alt="Top Languages" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=iRyougi&show_icons=true&title_color=bc719a&text_color=35307a&icon_color=bc719a&bg_color=00000000&border_color=35307a&border_radius=8&include_all_commits=true&hide_border=false&custom_title=iRyougi's%20GitHub%20Stats" alt="GitHub Stats" />
+      </td>
+      <td>
+        <!-- 通过card_width统一宽度 -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iRyougi&layout=compact&title_color=bc719a&text_color=35307a&icon_color=bc719a&bg_color=00000000&border_color=35307a&border_radius=8&hide_border=false&card_width=300" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=iRyougi&theme=transparent&ring=bc719a&fire=bc719a&currStreakNum=35307a&sideNums=35307a&dates=35307a&currStreakLabel=bc719a&stroke=35307a&border=35307a" alt="GitHub Streak" />
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=iRyougi&theme=radical" alt="GitHub Streak" />
 </p>
-
 
 ---
 
@@ -71,12 +78,12 @@
 <p align="center">
   <!-- 例如: AniList 用户信息(自定义需要AniList API) -->
   <!-- 这里仅做示意，如果你有AniList账号，可以用相应的开源项目生成SVG -->
-  <img src="https://anilist-readme.onrender.com/user/yourAnilistUsername.svg" alt="Anilist Status" />
+  <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/album/kioku-ep/1618713323"></iframe>
 </p>
 
 <p align="center">
-  <!-- 像素风格动画GIF -->
-  <img src="https://media.giphy.com/media/13n0zTF6v7x0fm/giphy.gif" width="200" alt="像素猫" />
+  <!-- 可选：音乐相关的GIF或动画 -->
+  <img src="https://media.giphy.com/media/L61p6eFYqp7TW/giphy.gif" width="200" alt="Music Animation" />
 </p>
 
 ---
