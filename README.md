@@ -53,16 +53,22 @@
 <!-- 动态数据展示 -->
 <h2 align="center">我的数据 My Stats</h2>
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=iRyougi&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iRyougi&layout=compact&theme=radical" alt="Top Languages" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=iRyougi&show_icons=true&title_color=bc719a&text_color=35307a&icon_color=bc719a&bg_color=00000000&border_color=35307a&border_radius=8&include_all_commits=true&hide_border=false&custom_title=iRyougi's%20GitHub%20Stats" alt="GitHub Stats" />
+      </td>
+      <td>
+        <!-- 通过card_width统一宽度 -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iRyougi&layout=compact&title_color=bc719a&text_color=35307a&icon_color=bc719a&bg_color=00000000&border_color=35307a&border_radius=8&hide_border=false&card_width=300" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=username&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=iRyougi&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
