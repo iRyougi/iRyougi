@@ -83,7 +83,7 @@
 
 <p align="center">
   <!-- 可选：音乐相关的GIF或动画 -->
-  <img src="https://media.giphy.com/media/L61p6eFYqp7TW/giphy.gif" width="200" alt="Music Animation" />
+  <iframe src="https://giphy.com/embed/6FjaNxfq8vHSQI0aVm" width="480" height="432" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/music-cat-dancing-6FjaNxfq8vHSQI0aVm">via GIPHY</a></p>
 </p>
 
 ---
