@@ -76,8 +76,8 @@
 <!-- 动态小组件 (动漫追番进度/音乐播放等 - 这些需要额外服务支持，这里仅示例) -->
 <h2 align="center">额外有趣组件 Fun Widgets</h2>
 <p align="center">
-  <!-- 例如: AniList 用户信息(自定义需要AniList API) -->
-  <!-- 这里仅做示意，如果你有AniList账号，可以用相应的开源项目生成SVG -->
+  <!-- 嵌入Apple Music播放器 -->
+  <!-- 替换iframe src为你生成的Apple Music嵌入链接 -->
   <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/album/kioku-ep/1618713323"></iframe>
 </p>
 
