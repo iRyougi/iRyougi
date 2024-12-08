@@ -12,7 +12,7 @@
 
   <!-- 欢迎Banner（可使用ASCII ART或工具生成） -->
   <!-- 欢迎Banner：使用readme-typing-svg定制文字 -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=%E8%8B%B1%E9%BA%BB%E4%BB%96&size=30&duration=4000&color=bc719a&center=true&vCenter=true&multiline=true&width=600&height=150&lines=KAMITSUBAKI+STUDIO;Here+We+Go～" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=%E8%8B%B1%E9%BA%BB%E4%BB%96&size=30&duration=4000&color=bc719a&center=true&vCenter=true&multiline=true&width=600&height=170&lines=KAMITSUBAKI+STUDIO;Here+We+Go～" alt="Typing SVG" />
 </p>
 
 ---
