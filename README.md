@@ -11,7 +11,8 @@
   <img src="https://www.iryougi.com/wp-content/uploads/2024/06/cropped-1718875770-处理完成图片20240620172915.png" alt="二次元角色" width="300" />
 
   <!-- 欢迎Banner（可使用ASCII ART或工具生成） -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=%E8%8B%B1%E9%BA%BB%E4%BB%96&size=30&duration=4000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=KAMITSUBAKI STUDIO;Here+we+go+~" alt="Typing SVG" />
+  <!-- 欢迎Banner：使用readme-typing-svg定制文字 -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=%E8%8B%B1%E9%BA%BB%E4%BB%96&size=30&color=bc719a&center=true&vCenter=true&multiline=true&width=500&height=80&lines=KAMITSUBAKI+STUDIO;Here+We+Go～" alt="Typing SVG" />
 </p>
 
 ---
@@ -33,18 +34,18 @@
 <h2 align="center">技能 & 技术栈 Skills & Stack</h2>
 <p align="center">
   <!-- 编程语言徽章 -->
-  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Code-Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff" alt="Go" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff" alt="PHP" />
 </p>
 
 <p align="center">
   <!-- 框架与工具徽章 -->
-  <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" />
-  <img src="https://img.shields.io/badge/Framework-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=ffffff" alt="Vue" />
-  <img src="https://img.shields.io/badge/Framework-Next.js-000000?style=flat-square&logo=next.js&logoColor=ffffff" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tool-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff" alt="Docker" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff" alt="Node.js" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=ffffff" alt=".NET" />
 </p>
 
 ---
@@ -94,5 +95,6 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&size=18&center=true&vCenter=true&lines=感谢看到这里！;希望能在这里找到灵感！" alt="Thank You" />
+  <!-- 更改为与你的主色调一致的颜色 -->
+  <img src="https://readme-typing-svg.herokuapp.com?color=bc719a&size=18&center=true&vCenter=true&lines=感谢看到这里！;希望能在这里找到灵感！" alt="Thank You" />
 </p>
