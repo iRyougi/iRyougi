@@ -75,16 +75,7 @@
 
 <!-- 动态小组件 (动漫追番进度/音乐播放等 - 这些需要额外服务支持，这里仅示例) -->
 <h2 align="center">额外有趣组件 Fun Widgets</h2>
-<p align="center">
-  <!-- 嵌入Apple Music播放器 -->
-  <!-- 替换iframe src为你生成的Apple Music嵌入链接 -->
-  <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/album/kioku-ep/1618713323"></iframe>
-</p>
-
-<p align="center">
-  <!-- 可选：音乐相关的GIF或动画 -->
-  <iframe src="https://giphy.com/embed/6FjaNxfq8vHSQI0aVm" width="480" height="432" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/music-cat-dancing-6FjaNxfq8vHSQI0aVm">via GIPHY</a></p>
-</p>
+<p align="center">非常坏GitHub😡不支持ifarm组件</p>
 
 ---
 
