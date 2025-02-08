@@ -84,7 +84,7 @@
 <p align="center">
   <!-- 替换成你自己的链接 -->
   <a href="mailto:iryougi@iryougi.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://twitter.com/your_twitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://twitter.com/iRyougi_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://space.bilibili.com/106724280" target="_blank"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili"></a>
   <a href="https://www.iryougi.com" target="_blank"><img src="https://img.shields.io/badge/Blog-FFA500?style=flat-square&logo=rss&logoColor=white" alt="Blog"></a>
 </p>
