@@ -8,7 +8,7 @@
 <!-- 顶部看板娘与欢迎Banner -->
 <p align="center">
   <!-- 使用自己喜欢的二次元角色插图 -->
-  <img src="https://www.iryougi.com/wp-content/uploads/2025/09/1758438328-ch103.png" alt="二次元角色" width="300" />
+  <img src="https://qiniu.iryougi.com/mainpicture/1758438328-ch103.png" alt="二次元角色" width="300" />
 
   <!-- 欢迎Banner（可使用ASCII ART或工具生成） -->
   <!-- 欢迎Banner：使用readme-typing-svg定制文字 -->
