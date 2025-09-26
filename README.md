@@ -21,7 +21,7 @@
 <h2 align="center">关于我 About Me</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QyJ0We4GHpjBa/giphy.gif" width="50" /> <br>
+  <img src="https://www.iryougi.com/wp-content/uploads/2025/09/1758546227-ezgif.com-crop.webp" width="50" /> <br>
   你好，我是儀双魚！很高兴认识你～<br>
   🌸 喜欢尝试新奇的技术，也喜欢捣鼓各种有趣的项目<br>
   🎀 成分比较复杂<br>
