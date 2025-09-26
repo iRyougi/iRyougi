@@ -15,8 +15,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=%E8%8B%B1%E9%BA%BB%E4%BB%96&size=30&duration=4000&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=KAMITSUBAKI+STUDIO;🌸神椿仮想世界斫究開発部" alt="Typing SVG" />
 </p>
 
----
-
 <!-- 自我介绍区 -->
 <h2 align="center">关于我 About Me</h2>
 
@@ -28,7 +26,6 @@
   💖 无法飞翔的翅膀 也有它存在的意义
 </p>
 
----
 
 <!-- Skill 栏与徽章 -->
 <h2 align="center">技能 & 技术栈 Skills & Stack</h2>
@@ -48,7 +45,6 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=ffffff" alt=".NET" />
 </p>
 
----
 
 <!-- 联系方式与社交连接 -->
 <h2 align="center">联系我 Contact Me</h2>
