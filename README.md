@@ -20,7 +20,7 @@
 
 <p align="center">
   <img src="https://www.iryougi.com/wp-content/uploads/2025/09/1758546227-ezgif.com-crop.webp" width="50" /> <br>
-  你好，我是儀双魚！很高兴认识你～<br>
+  你好，我是苏幽璃！很高兴认识你～<br>
   🌸 喜欢尝试新奇的技术，也喜欢捣鼓各种有趣的项目<br>
   🎀 成分比较复杂<br>
   💖 无法飞翔的翅膀 也有它存在的意义
