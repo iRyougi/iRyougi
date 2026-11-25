@@ -28,21 +28,6 @@
 
 <p align="center"><img src="./assets/divider.svg" width="520" alt="" /></p>
 
-<h2 align="center">正在做 · Projects</h2>
-
-<div align="center">
-
-| 项目 | 简介 | Stars |
-| :-- | :-- | :-: |
-| [**sts2-sim**](https://github.com/iRyougi/sts2-sim) | 《杀戮尖塔 2》非官方 headless 模拟器，随机数与种子与游戏一致 | ![](https://img.shields.io/github/stars/iRyougi/sts2-sim?style=flat-square&color=D97757&labelColor=141413&label=%E2%98%85) |
-| [**WutheringWavesSteamHelper**](https://github.com/iRyougi/WutheringWavesSteamHelper) | 从 Steam 快捷启动已上线 Steam 的游戏国服 | ![](https://img.shields.io/github/stars/iRyougi/WutheringWavesSteamHelper?style=flat-square&color=D97757&labelColor=141413&label=%E2%98%85) |
-| [**SaveandLoad2-Public**](https://github.com/iRyougi/SaveandLoad2-Public) | 杀戮尖塔 2 存档解析软件 | ![](https://img.shields.io/github/stars/iRyougi/SaveandLoad2-Public?style=flat-square&color=D97757&labelColor=141413&label=%E2%98%85) |
-| [**sts2-swordart**](https://github.com/iRyougi/sts2-swordart) | 锻刀大赛：统计锻造峰值与伤害的 STS2 mod，附多人排行榜 | ![](https://img.shields.io/github/stars/iRyougi/sts2-swordart?style=flat-square&color=D97757&labelColor=141413&label=%E2%98%85) |
-
-</div>
-
-<p align="center"><img src="./assets/divider.svg" width="520" alt="" /></p>
-
 <h2 align="center">贡献城市 · Contributions</h2>
 
 <p align="center">
