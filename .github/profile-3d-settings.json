@@ -1,0 +1,20 @@
+{
+  "type": "normal",
+  "fileName": "profile-claude.svg",
+  "backgroundColor": "#F0EEE6",
+  "foregroundColor": "#141413",
+  "strongColor": "#D97757",
+  "weakColor": "#87867F",
+  "radarColor": "#D97757",
+  "growingAnimation": true,
+  "contribColors": ["#E3DACC", "#F2C9B6", "#E8A487", "#D97757", "#A9462A"],
+  "darkMode": {
+    "type": "normal",
+    "backgroundColor": "#0D1117",
+    "foregroundColor": "#F0EEE6",
+    "strongColor": "#D97757",
+    "weakColor": "#87867F",
+    "radarColor": "#D97757",
+    "contribColors": ["#262624", "#4A2A1F", "#7A3B26", "#B8552F", "#D97757"]
+  }
+}
